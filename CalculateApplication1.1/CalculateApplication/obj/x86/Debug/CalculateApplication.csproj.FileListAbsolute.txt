@@ -1,0 +1,8 @@
+F:\ww\source\CalculateApplication\CalculateApplication\obj\x86\Debug\CalculateApplication.Properties.Resources.resources
+F:\ww\source\CalculateApplication\CalculateApplication\obj\x86\Debug\CalculateApplication.csproj.GenerateResource.Cache
+F:\ww\source\CalculateApplication\CalculateApplication\bin\Debug\CalculateApplication.exe
+F:\ww\source\CalculateApplication\CalculateApplication\bin\Debug\CalculateApplication.pdb
+F:\ww\source\CalculateApplication\CalculateApplication\obj\x86\Debug\CalculateApplication.exe
+F:\ww\source\CalculateApplication\CalculateApplication\obj\x86\Debug\CalculateApplication.pdb
+F:\ww\source\CalculateApplication\CalculateApplication\obj\x86\Debug\CalculateApplication.csprojResolveAssemblyReference.cache
+F:\ww\source\CalculateApplication\CalculateApplication\obj\x86\Debug\CalculateApplication.CalculatorForm.resources
